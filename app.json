@@ -3,7 +3,7 @@
     "description": "Telegram File Compressor Bot ",
     "logo": "https://graph.org/file/f118d554265c3e339c84f.jpg",
     "keywords": ["Encoder Bot", "Mongo DB", "Telegram","python", "Video","Compressor","Encoder"],    
-    "repository": "https://github.com/Snowball-0/SnowEncoderBot",
+    "repository": "https://github.com/ashwinrin77/TGVid-Comp",
     "success_url": "",
     "stack": "container",
     "env": {
